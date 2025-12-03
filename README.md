@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/-Static/main/public/uv.png" height="200"></p>
 
-<h1 align="center">U-App</h1>
+<h1 align="center">-App</h1>
 
 > [!CAUTION]
 > Please note that this project isn't really maintained anymore before making issues! It has been superseded by [](https://github.com/MercuryWorkshop/scramjet). An example application setup can be found [here](https://github.com/MercuryWorkshop/Scramjet-App).
