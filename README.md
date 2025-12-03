@@ -3,9 +3,9 @@
 <h1 align="center">U-App</h1>
 
 > [!CAUTION]
-> Please note that this project isn't really maintained anymore before making issues! It has been superseded by [Scrmjet](https://github.com/MercuryWorkshop/scramjet). An example application setup can be found [here](https://github.com/MercuryWorkshop/Scramjet-App).
+> Please note that this project isn't really maintained anymore before making issues! It has been superseded by [](https://github.com/MercuryWorkshop/scramjet). An example application setup can be found [here](https://github.com/MercuryWorkshop/Scramjet-App).
 
-The deployable all-in-one bundle for [Ultret](https://github.com/titaniumnetwork-dev/Ultraviolet), a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
+The deployable all-in-one bundle for [](https://github.com/titaniumnetwork-dev/Ultraviolet), a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
 
 ## Deployment
 
